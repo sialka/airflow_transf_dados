@@ -1,0 +1,221 @@
+[2023-02-24 10:47:34,394] {processor.py:153} INFO - Started process (PID=6113) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:47:34,394] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:47:34,394] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,394] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:47:34,400] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:47:34,439] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,439] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_branch_operator
+[2023-02-24 10:47:34,446] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,446] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_branch_operator
+[2023-02-24 10:47:34,451] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,451] {manager.py:508} INFO - Created Permission View: can read on DAG:example_branch_operator
+[2023-02-24 10:47:34,451] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,451] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:47:34,455] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,455] {dag.py:2398} INFO - Creating ORM DAG for example_branch_operator
+[2023-02-24 10:47:34,460] {logging_mixin.py:115} INFO - [2023-02-24 10:47:34,460] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:47:34,469] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.078 seconds
+[2023-02-24 10:48:09,681] {processor.py:153} INFO - Started process (PID=6370) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:48:09,682] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:48:09,682] {logging_mixin.py:115} INFO - [2023-02-24 10:48:09,682] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:48:09,688] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:48:09,697] {logging_mixin.py:115} INFO - [2023-02-24 10:48:09,696] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:09,707] {logging_mixin.py:115} INFO - [2023-02-24 10:48:09,707] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:48:09,713] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 10:48:43,304] {processor.py:153} INFO - Started process (PID=6733) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:48:43,305] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:48:43,305] {logging_mixin.py:115} INFO - [2023-02-24 10:48:43,305] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:48:43,310] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:48:43,320] {logging_mixin.py:115} INFO - [2023-02-24 10:48:43,320] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:43,330] {logging_mixin.py:115} INFO - [2023-02-24 10:48:43,330] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:48:43,337] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.035 seconds
+[2023-02-24 10:49:19,217] {processor.py:153} INFO - Started process (PID=7301) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:49:19,217] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:49:19,218] {logging_mixin.py:115} INFO - [2023-02-24 10:49:19,218] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:49:19,225] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:49:19,237] {logging_mixin.py:115} INFO - [2023-02-24 10:49:19,237] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:49:19,251] {logging_mixin.py:115} INFO - [2023-02-24 10:49:19,251] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:49:19,260] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.045 seconds
+[2023-02-24 10:49:55,669] {processor.py:153} INFO - Started process (PID=7498) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:49:55,670] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:49:55,670] {logging_mixin.py:115} INFO - [2023-02-24 10:49:55,670] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:49:55,676] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:49:55,684] {logging_mixin.py:115} INFO - [2023-02-24 10:49:55,684] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:49:55,694] {logging_mixin.py:115} INFO - [2023-02-24 10:49:55,694] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:49:55,700] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 10:50:28,296] {processor.py:153} INFO - Started process (PID=7668) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:50:28,296] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:50:28,296] {logging_mixin.py:115} INFO - [2023-02-24 10:50:28,296] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:50:28,302] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:50:28,310] {logging_mixin.py:115} INFO - [2023-02-24 10:50:28,310] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:28,320] {logging_mixin.py:115} INFO - [2023-02-24 10:50:28,320] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:50:28,326] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:51:03,997] {processor.py:153} INFO - Started process (PID=7856) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:51:03,998] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:51:03,998] {logging_mixin.py:115} INFO - [2023-02-24 10:51:03,998] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:51:04,003] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:51:04,012] {logging_mixin.py:115} INFO - [2023-02-24 10:51:04,012] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:04,021] {logging_mixin.py:115} INFO - [2023-02-24 10:51:04,021] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:51:04,028] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 10:51:36,759] {processor.py:153} INFO - Started process (PID=8033) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:51:36,760] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:51:36,760] {logging_mixin.py:115} INFO - [2023-02-24 10:51:36,760] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:51:36,766] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:51:36,775] {logging_mixin.py:115} INFO - [2023-02-24 10:51:36,775] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:36,785] {logging_mixin.py:115} INFO - [2023-02-24 10:51:36,785] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:51:36,792] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.034 seconds
+[2023-02-24 10:52:11,282] {processor.py:153} INFO - Started process (PID=8209) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:52:11,282] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:52:11,283] {logging_mixin.py:115} INFO - [2023-02-24 10:52:11,283] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:52:11,288] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:52:11,296] {logging_mixin.py:115} INFO - [2023-02-24 10:52:11,296] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:11,306] {logging_mixin.py:115} INFO - [2023-02-24 10:52:11,306] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:52:11,312] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:52:47,647] {processor.py:153} INFO - Started process (PID=8398) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:52:47,647] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:52:47,648] {logging_mixin.py:115} INFO - [2023-02-24 10:52:47,648] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:52:47,653] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:52:47,661] {logging_mixin.py:115} INFO - [2023-02-24 10:52:47,661] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:47,671] {logging_mixin.py:115} INFO - [2023-02-24 10:52:47,671] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:52:47,677] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:53:21,323] {processor.py:153} INFO - Started process (PID=8560) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:53:21,323] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:53:21,323] {logging_mixin.py:115} INFO - [2023-02-24 10:53:21,323] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:53:21,329] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:53:21,337] {logging_mixin.py:115} INFO - [2023-02-24 10:53:21,337] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:21,346] {logging_mixin.py:115} INFO - [2023-02-24 10:53:21,346] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:53:21,353] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.031 seconds
+[2023-02-24 10:53:53,850] {processor.py:153} INFO - Started process (PID=8726) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:53:53,851] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:53:53,851] {logging_mixin.py:115} INFO - [2023-02-24 10:53:53,851] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:53:53,857] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:53:53,865] {logging_mixin.py:115} INFO - [2023-02-24 10:53:53,865] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:53,875] {logging_mixin.py:115} INFO - [2023-02-24 10:53:53,875] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:53:53,881] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:54:28,013] {processor.py:153} INFO - Started process (PID=8984) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:54:28,013] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:54:28,014] {logging_mixin.py:115} INFO - [2023-02-24 10:54:28,014] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:54:28,019] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:54:28,027] {logging_mixin.py:115} INFO - [2023-02-24 10:54:28,027] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:28,036] {logging_mixin.py:115} INFO - [2023-02-24 10:54:28,036] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:54:28,043] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.031 seconds
+[2023-02-24 10:55:03,888] {processor.py:153} INFO - Started process (PID=9170) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:55:03,889] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:55:03,889] {logging_mixin.py:115} INFO - [2023-02-24 10:55:03,889] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:55:03,894] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:55:03,903] {logging_mixin.py:115} INFO - [2023-02-24 10:55:03,903] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:03,913] {logging_mixin.py:115} INFO - [2023-02-24 10:55:03,913] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:55:03,921] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.034 seconds
+[2023-02-24 10:55:41,555] {processor.py:153} INFO - Started process (PID=9367) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:55:41,555] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:55:41,556] {logging_mixin.py:115} INFO - [2023-02-24 10:55:41,556] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:55:41,561] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:55:41,569] {logging_mixin.py:115} INFO - [2023-02-24 10:55:41,569] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:41,579] {logging_mixin.py:115} INFO - [2023-02-24 10:55:41,579] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:55:41,586] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 10:56:19,691] {processor.py:153} INFO - Started process (PID=9559) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:56:19,692] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:56:19,692] {logging_mixin.py:115} INFO - [2023-02-24 10:56:19,692] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:56:19,697] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:56:19,705] {logging_mixin.py:115} INFO - [2023-02-24 10:56:19,705] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:19,715] {logging_mixin.py:115} INFO - [2023-02-24 10:56:19,715] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:56:19,722] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:56:53,092] {processor.py:153} INFO - Started process (PID=9735) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:56:53,092] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:56:53,093] {logging_mixin.py:115} INFO - [2023-02-24 10:56:53,093] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:56:53,098] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:56:53,106] {logging_mixin.py:115} INFO - [2023-02-24 10:56:53,106] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:53,115] {logging_mixin.py:115} INFO - [2023-02-24 10:56:53,115] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:56:53,122] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:57:26,411] {processor.py:153} INFO - Started process (PID=9902) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:57:26,411] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:57:26,412] {logging_mixin.py:115} INFO - [2023-02-24 10:57:26,412] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:57:26,417] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:57:26,425] {logging_mixin.py:115} INFO - [2023-02-24 10:57:26,425] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:26,435] {logging_mixin.py:115} INFO - [2023-02-24 10:57:26,434] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:57:26,441] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.031 seconds
+[2023-02-24 10:57:58,312] {processor.py:153} INFO - Started process (PID=10075) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:57:58,312] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:57:58,313] {logging_mixin.py:115} INFO - [2023-02-24 10:57:58,313] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:57:58,318] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:57:58,326] {logging_mixin.py:115} INFO - [2023-02-24 10:57:58,326] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:58,335] {logging_mixin.py:115} INFO - [2023-02-24 10:57:58,335] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:57:58,342] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.031 seconds
+[2023-02-24 10:58:31,567] {processor.py:153} INFO - Started process (PID=10249) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:58:31,567] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:58:31,567] {logging_mixin.py:115} INFO - [2023-02-24 10:58:31,567] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:58:31,573] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:58:31,581] {logging_mixin.py:115} INFO - [2023-02-24 10:58:31,581] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:31,590] {logging_mixin.py:115} INFO - [2023-02-24 10:58:31,590] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:58:31,596] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.031 seconds
+[2023-02-24 10:59:08,981] {processor.py:153} INFO - Started process (PID=10438) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:59:08,982] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:59:08,982] {logging_mixin.py:115} INFO - [2023-02-24 10:59:08,982] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:59:08,987] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:59:08,995] {logging_mixin.py:115} INFO - [2023-02-24 10:59:08,995] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:09,006] {logging_mixin.py:115} INFO - [2023-02-24 10:59:09,006] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:59:09,012] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 10:59:42,635] {processor.py:153} INFO - Started process (PID=10616) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:59:42,635] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 10:59:42,635] {logging_mixin.py:115} INFO - [2023-02-24 10:59:42,635] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:59:42,640] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 10:59:42,649] {logging_mixin.py:115} INFO - [2023-02-24 10:59:42,649] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:42,658] {logging_mixin.py:115} INFO - [2023-02-24 10:59:42,658] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 10:59:42,666] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 11:00:15,595] {processor.py:153} INFO - Started process (PID=10789) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:00:15,596] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:00:15,596] {logging_mixin.py:115} INFO - [2023-02-24 11:00:15,596] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:00:15,602] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:00:15,610] {logging_mixin.py:115} INFO - [2023-02-24 11:00:15,610] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:15,620] {logging_mixin.py:115} INFO - [2023-02-24 11:00:15,620] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:00:15,627] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 11:00:52,639] {processor.py:153} INFO - Started process (PID=10987) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:00:52,640] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:00:52,641] {logging_mixin.py:115} INFO - [2023-02-24 11:00:52,641] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:00:52,646] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:00:52,655] {logging_mixin.py:115} INFO - [2023-02-24 11:00:52,655] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:52,664] {logging_mixin.py:115} INFO - [2023-02-24 11:00:52,664] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:00:52,671] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 11:01:28,620] {processor.py:153} INFO - Started process (PID=11184) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:01:28,620] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:01:28,620] {logging_mixin.py:115} INFO - [2023-02-24 11:01:28,620] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:01:28,625] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:01:28,634] {logging_mixin.py:115} INFO - [2023-02-24 11:01:28,634] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:01:28,643] {logging_mixin.py:115} INFO - [2023-02-24 11:01:28,643] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:01:28,651] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 11:02:03,149] {processor.py:153} INFO - Started process (PID=11363) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:02:03,150] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:02:03,150] {logging_mixin.py:115} INFO - [2023-02-24 11:02:03,150] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:02:03,155] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:02:03,164] {logging_mixin.py:115} INFO - [2023-02-24 11:02:03,164] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:03,173] {logging_mixin.py:115} INFO - [2023-02-24 11:02:03,173] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:02:03,180] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 11:02:39,072] {processor.py:153} INFO - Started process (PID=11551) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:02:39,073] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:02:39,073] {logging_mixin.py:115} INFO - [2023-02-24 11:02:39,073] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:02:39,079] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:02:39,087] {logging_mixin.py:115} INFO - [2023-02-24 11:02:39,086] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:39,096] {logging_mixin.py:115} INFO - [2023-02-24 11:02:39,096] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:02:39,103] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 11:03:12,693] {processor.py:153} INFO - Started process (PID=11726) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:03:12,694] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:03:12,694] {logging_mixin.py:115} INFO - [2023-02-24 11:03:12,694] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:03:12,700] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:03:12,708] {logging_mixin.py:115} INFO - [2023-02-24 11:03:12,708] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:12,717] {logging_mixin.py:115} INFO - [2023-02-24 11:03:12,717] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:03:12,724] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds
+[2023-02-24 11:03:47,312] {processor.py:153} INFO - Started process (PID=11966) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:03:47,312] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:03:47,313] {logging_mixin.py:115} INFO - [2023-02-24 11:03:47,313] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:03:47,319] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:03:47,327] {logging_mixin.py:115} INFO - [2023-02-24 11:03:47,327] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:47,337] {logging_mixin.py:115} INFO - [2023-02-24 11:03:47,337] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:03:47,344] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 11:04:23,900] {processor.py:153} INFO - Started process (PID=12189) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:04:23,900] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:04:23,901] {logging_mixin.py:115} INFO - [2023-02-24 11:04:23,901] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:04:23,906] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:04:23,915] {logging_mixin.py:115} INFO - [2023-02-24 11:04:23,915] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:04:23,924] {logging_mixin.py:115} INFO - [2023-02-24 11:04:23,924] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:04:23,931] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.033 seconds
+[2023-02-24 11:05:00,423] {processor.py:153} INFO - Started process (PID=12411) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:05:00,424] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py for tasks to queue
+[2023-02-24 11:05:00,424] {logging_mixin.py:115} INFO - [2023-02-24 11:05:00,424] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:05:00,430] {processor.py:651} INFO - DAG(s) dict_keys(['example_branch_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py
+[2023-02-24 11:05:00,438] {logging_mixin.py:115} INFO - [2023-02-24 11:05:00,438] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:05:00,448] {logging_mixin.py:115} INFO - [2023-02-24 11:05:00,448] {dag.py:2927} INFO - Setting next_dagrun for example_branch_operator to 2023-02-23T00:00:00+00:00, run_after=2023-02-24T00:00:00+00:00
+[2023-02-24 11:05:00,454] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_branch_operator.py took 0.032 seconds

@@ -1,0 +1,221 @@
+[2023-02-24 10:47:37,771] {processor.py:153} INFO - Started process (PID=6116) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:47:37,772] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:47:37,772] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,772] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:47:37,778] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:47:37,810] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,810] {manager.py:508} INFO - Created Permission View: can delete on DAG:TwitterDAG
+[2023-02-24 10:47:37,816] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,816] {manager.py:508} INFO - Created Permission View: can edit on DAG:TwitterDAG
+[2023-02-24 10:47:37,820] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,820] {manager.py:508} INFO - Created Permission View: can read on DAG:TwitterDAG
+[2023-02-24 10:47:37,820] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,820] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:47:37,824] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,824] {dag.py:2398} INFO - Creating ORM DAG for TwitterDAG
+[2023-02-24 10:47:37,830] {logging_mixin.py:115} INFO - [2023-02-24 10:47:37,830] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:47:37,846] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.076 seconds
+[2023-02-24 10:48:15,440] {processor.py:153} INFO - Started process (PID=6446) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:48:15,441] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:48:15,441] {logging_mixin.py:115} INFO - [2023-02-24 10:48:15,441] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:48:15,445] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:48:15,454] {logging_mixin.py:115} INFO - [2023-02-24 10:48:15,454] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:15,463] {logging_mixin.py:115} INFO - [2023-02-24 10:48:15,463] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:48:15,471] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.033 seconds
+[2023-02-24 10:48:50,423] {processor.py:153} INFO - Started process (PID=6814) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:48:50,424] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:48:50,424] {logging_mixin.py:115} INFO - [2023-02-24 10:48:50,424] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:48:50,428] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:48:50,443] {logging_mixin.py:115} INFO - [2023-02-24 10:48:50,443] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:50,453] {logging_mixin.py:115} INFO - [2023-02-24 10:48:50,453] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:48:50,460] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.038 seconds
+[2023-02-24 10:49:23,223] {processor.py:153} INFO - Started process (PID=7330) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:49:23,223] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:49:23,224] {logging_mixin.py:115} INFO - [2023-02-24 10:49:23,224] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:49:23,228] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:49:23,236] {logging_mixin.py:115} INFO - [2023-02-24 10:49:23,236] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:49:23,245] {logging_mixin.py:115} INFO - [2023-02-24 10:49:23,245] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:49:23,258] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.036 seconds
+[2023-02-24 10:50:04,183] {processor.py:153} INFO - Started process (PID=7541) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:50:04,184] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:50:04,184] {logging_mixin.py:115} INFO - [2023-02-24 10:50:04,184] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:50:04,189] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:50:04,197] {logging_mixin.py:115} INFO - [2023-02-24 10:50:04,197] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:04,207] {logging_mixin.py:115} INFO - [2023-02-24 10:50:04,206] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:50:04,214] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.032 seconds
+[2023-02-24 10:50:36,173] {processor.py:153} INFO - Started process (PID=7715) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:50:36,174] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:50:36,174] {logging_mixin.py:115} INFO - [2023-02-24 10:50:36,174] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:50:36,178] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:50:36,186] {logging_mixin.py:115} INFO - [2023-02-24 10:50:36,186] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:36,195] {logging_mixin.py:115} INFO - [2023-02-24 10:50:36,195] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:50:36,202] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 10:51:12,008] {processor.py:153} INFO - Started process (PID=7899) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:51:12,009] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:51:12,009] {logging_mixin.py:115} INFO - [2023-02-24 10:51:12,009] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:51:12,013] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:51:12,021] {logging_mixin.py:115} INFO - [2023-02-24 10:51:12,021] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:12,030] {logging_mixin.py:115} INFO - [2023-02-24 10:51:12,029] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:51:12,036] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 10:51:43,919] {processor.py:153} INFO - Started process (PID=8070) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:51:43,919] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:51:43,920] {logging_mixin.py:115} INFO - [2023-02-24 10:51:43,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:51:43,924] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:51:43,931] {logging_mixin.py:115} INFO - [2023-02-24 10:51:43,931] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:43,940] {logging_mixin.py:115} INFO - [2023-02-24 10:51:43,940] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:51:43,947] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 10:52:21,032] {processor.py:153} INFO - Started process (PID=8260) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:52:21,033] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:52:21,033] {logging_mixin.py:115} INFO - [2023-02-24 10:52:21,033] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:52:21,039] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:52:21,053] {logging_mixin.py:115} INFO - [2023-02-24 10:52:21,053] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:21,064] {logging_mixin.py:115} INFO - [2023-02-24 10:52:21,064] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:52:21,072] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.042 seconds
+[2023-02-24 10:52:57,771] {processor.py:153} INFO - Started process (PID=8450) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:52:57,771] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:52:57,772] {logging_mixin.py:115} INFO - [2023-02-24 10:52:57,772] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:52:57,776] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:52:57,784] {logging_mixin.py:115} INFO - [2023-02-24 10:52:57,784] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:57,793] {logging_mixin.py:115} INFO - [2023-02-24 10:52:57,793] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:52:57,800] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.031 seconds
+[2023-02-24 10:53:30,455] {processor.py:153} INFO - Started process (PID=8606) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:53:30,456] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:53:30,456] {logging_mixin.py:115} INFO - [2023-02-24 10:53:30,456] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:53:30,460] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:53:30,470] {logging_mixin.py:115} INFO - [2023-02-24 10:53:30,470] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:30,479] {logging_mixin.py:115} INFO - [2023-02-24 10:53:30,479] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:53:30,486] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.032 seconds
+[2023-02-24 10:54:06,919] {processor.py:153} INFO - Started process (PID=8876) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:54:06,920] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:54:06,920] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:54:06,924] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:54:06,932] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,932] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:06,941] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,941] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:54:06,947] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 10:54:41,118] {processor.py:153} INFO - Started process (PID=9051) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:54:41,118] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:54:41,119] {logging_mixin.py:115} INFO - [2023-02-24 10:54:41,119] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:54:41,123] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:54:41,131] {logging_mixin.py:115} INFO - [2023-02-24 10:54:41,131] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:41,140] {logging_mixin.py:115} INFO - [2023-02-24 10:54:41,140] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:54:41,146] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 10:55:15,279] {processor.py:153} INFO - Started process (PID=9230) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:55:15,279] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:55:15,279] {logging_mixin.py:115} INFO - [2023-02-24 10:55:15,279] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:55:15,283] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:55:15,291] {logging_mixin.py:115} INFO - [2023-02-24 10:55:15,291] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:15,300] {logging_mixin.py:115} INFO - [2023-02-24 10:55:15,300] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:55:15,307] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 10:55:51,818] {processor.py:153} INFO - Started process (PID=9417) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:55:51,818] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:55:51,819] {logging_mixin.py:115} INFO - [2023-02-24 10:55:51,819] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:55:51,824] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:55:51,833] {logging_mixin.py:115} INFO - [2023-02-24 10:55:51,832] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:51,841] {logging_mixin.py:115} INFO - [2023-02-24 10:55:51,841] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:55:51,848] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.031 seconds
+[2023-02-24 10:56:25,187] {processor.py:153} INFO - Started process (PID=9589) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:56:25,187] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:56:25,187] {logging_mixin.py:115} INFO - [2023-02-24 10:56:25,187] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:56:25,192] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:56:25,199] {logging_mixin.py:115} INFO - [2023-02-24 10:56:25,199] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:25,208] {logging_mixin.py:115} INFO - [2023-02-24 10:56:25,208] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:56:25,215] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 10:56:58,493] {processor.py:153} INFO - Started process (PID=9763) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:56:58,493] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:56:58,494] {logging_mixin.py:115} INFO - [2023-02-24 10:56:58,494] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:56:58,498] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:56:58,508] {logging_mixin.py:115} INFO - [2023-02-24 10:56:58,507] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:58,518] {logging_mixin.py:115} INFO - [2023-02-24 10:56:58,518] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:56:58,525] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.034 seconds
+[2023-02-24 10:57:31,971] {processor.py:153} INFO - Started process (PID=9932) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:57:31,972] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:57:31,972] {logging_mixin.py:115} INFO - [2023-02-24 10:57:31,972] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:57:31,976] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:57:31,984] {logging_mixin.py:115} INFO - [2023-02-24 10:57:31,984] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:31,993] {logging_mixin.py:115} INFO - [2023-02-24 10:57:31,993] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:57:32,000] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 10:58:04,566] {processor.py:153} INFO - Started process (PID=10105) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:58:04,566] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:58:04,567] {logging_mixin.py:115} INFO - [2023-02-24 10:58:04,566] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:58:04,571] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:58:04,579] {logging_mixin.py:115} INFO - [2023-02-24 10:58:04,579] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:04,588] {logging_mixin.py:115} INFO - [2023-02-24 10:58:04,588] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:58:04,595] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.031 seconds
+[2023-02-24 10:58:40,111] {processor.py:153} INFO - Started process (PID=10289) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:58:40,112] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:58:40,112] {logging_mixin.py:115} INFO - [2023-02-24 10:58:40,112] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:58:40,116] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:58:40,124] {logging_mixin.py:115} INFO - [2023-02-24 10:58:40,123] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:40,132] {logging_mixin.py:115} INFO - [2023-02-24 10:58:40,132] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:58:40,139] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 10:59:12,070] {processor.py:153} INFO - Started process (PID=10458) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:59:12,070] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:59:12,070] {logging_mixin.py:115} INFO - [2023-02-24 10:59:12,070] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:59:12,075] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:59:12,082] {logging_mixin.py:115} INFO - [2023-02-24 10:59:12,082] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:12,092] {logging_mixin.py:115} INFO - [2023-02-24 10:59:12,091] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:59:12,097] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 10:59:47,765] {processor.py:153} INFO - Started process (PID=10642) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:59:47,766] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 10:59:47,766] {logging_mixin.py:115} INFO - [2023-02-24 10:59:47,766] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:59:47,770] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 10:59:47,778] {logging_mixin.py:115} INFO - [2023-02-24 10:59:47,778] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:47,787] {logging_mixin.py:115} INFO - [2023-02-24 10:59:47,787] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 10:59:47,793] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 11:00:21,850] {processor.py:153} INFO - Started process (PID=10821) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:00:21,851] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:00:21,851] {logging_mixin.py:115} INFO - [2023-02-24 11:00:21,851] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:00:21,855] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:00:21,864] {logging_mixin.py:115} INFO - [2023-02-24 11:00:21,864] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:21,873] {logging_mixin.py:115} INFO - [2023-02-24 11:00:21,873] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:00:21,880] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.031 seconds
+[2023-02-24 11:00:58,366] {processor.py:153} INFO - Started process (PID=11028) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:00:58,367] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:00:58,367] {logging_mixin.py:115} INFO - [2023-02-24 11:00:58,367] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:00:58,371] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:00:58,379] {logging_mixin.py:115} INFO - [2023-02-24 11:00:58,379] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:58,387] {logging_mixin.py:115} INFO - [2023-02-24 11:00:58,387] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:00:58,394] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.029 seconds
+[2023-02-24 11:01:32,422] {processor.py:153} INFO - Started process (PID=11204) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:01:32,422] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:01:32,423] {logging_mixin.py:115} INFO - [2023-02-24 11:01:32,423] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:01:32,427] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:01:32,435] {logging_mixin.py:115} INFO - [2023-02-24 11:01:32,435] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:01:32,444] {logging_mixin.py:115} INFO - [2023-02-24 11:01:32,444] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:01:32,451] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 11:02:09,400] {processor.py:153} INFO - Started process (PID=11396) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:02:09,401] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:02:09,401] {logging_mixin.py:115} INFO - [2023-02-24 11:02:09,401] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:02:09,405] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:02:09,413] {logging_mixin.py:115} INFO - [2023-02-24 11:02:09,413] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:09,422] {logging_mixin.py:115} INFO - [2023-02-24 11:02:09,422] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:02:09,429] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 11:02:44,161] {processor.py:153} INFO - Started process (PID=11577) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:02:44,162] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:02:44,162] {logging_mixin.py:115} INFO - [2023-02-24 11:02:44,162] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:02:44,166] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:02:44,174] {logging_mixin.py:115} INFO - [2023-02-24 11:02:44,174] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:44,184] {logging_mixin.py:115} INFO - [2023-02-24 11:02:44,184] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:02:44,190] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.031 seconds
+[2023-02-24 11:03:22,330] {processor.py:153} INFO - Started process (PID=11775) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:03:22,331] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:03:22,331] {logging_mixin.py:115} INFO - [2023-02-24 11:03:22,331] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:03:22,336] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:03:22,345] {logging_mixin.py:115} INFO - [2023-02-24 11:03:22,345] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:22,354] {logging_mixin.py:115} INFO - [2023-02-24 11:03:22,354] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:03:22,361] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.032 seconds
+[2023-02-24 11:03:56,312] {processor.py:153} INFO - Started process (PID=12027) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:03:56,313] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:03:56,313] {logging_mixin.py:115} INFO - [2023-02-24 11:03:56,313] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:03:56,317] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:03:56,325] {logging_mixin.py:115} INFO - [2023-02-24 11:03:56,325] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:56,334] {logging_mixin.py:115} INFO - [2023-02-24 11:03:56,334] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:03:56,341] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.030 seconds
+[2023-02-24 11:04:33,038] {processor.py:153} INFO - Started process (PID=12244) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:04:33,039] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:04:33,039] {logging_mixin.py:115} INFO - [2023-02-24 11:04:33,039] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:04:33,044] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:04:33,054] {logging_mixin.py:115} INFO - [2023-02-24 11:04:33,054] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:04:33,063] {logging_mixin.py:115} INFO - [2023-02-24 11:04:33,063] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:04:33,075] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.038 seconds
+[2023-02-24 11:05:07,157] {processor.py:153} INFO - Started process (PID=12451) to work on /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:05:07,158] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py for tasks to queue
+[2023-02-24 11:05:07,158] {logging_mixin.py:115} INFO - [2023-02-24 11:05:07,158] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:05:07,163] {processor.py:651} INFO - DAG(s) dict_keys(['TwitterDAG']) retrieved from /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py
+[2023-02-24 11:05:07,171] {logging_mixin.py:115} INFO - [2023-02-24 11:05:07,171] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:05:07,181] {logging_mixin.py:115} INFO - [2023-02-24 11:05:07,181] {dag.py:2927} INFO - Setting next_dagrun for TwitterDAG to 2023-02-18T00:00:00+00:00, run_after=2023-02-19T00:00:00+00:00
+[2023-02-24 11:05:07,187] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/airflow_pipeline/dags/twitter_dag.py took 0.031 seconds

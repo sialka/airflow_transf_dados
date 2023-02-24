@@ -1,0 +1,402 @@
+[2023-02-24 10:47:22,887] {processor.py:153} INFO - Started process (PID=5983) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:47:22,887] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:47:22,888] {logging_mixin.py:115} INFO - [2023-02-24 10:47:22,888] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:47:22,915] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:47:23,086] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,086] {manager.py:508} INFO - Created Permission View: can delete on DAG:example_subdag_operator
+[2023-02-24 10:47:23,096] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,095] {manager.py:508} INFO - Created Permission View: can edit on DAG:example_subdag_operator
+[2023-02-24 10:47:23,104] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,104] {manager.py:508} INFO - Created Permission View: can read on DAG:example_subdag_operator
+[2023-02-24 10:47:23,104] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,104] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:47:23,115] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,115] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-1
+[2023-02-24 10:47:23,116] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,115] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator.section-2
+[2023-02-24 10:47:23,116] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,116] {dag.py:2398} INFO - Creating ORM DAG for example_subdag_operator
+[2023-02-24 10:47:23,127] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,127] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:47:23,128] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,128] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:47:23,128] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,128] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:47:23,141] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,141] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:47:23,146] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,146] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:47:23,147] {logging_mixin.py:115} INFO - [2023-02-24 10:47:23,147] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:47:23,160] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.278 seconds
+[2023-02-24 10:47:58,303] {processor.py:153} INFO - Started process (PID=6280) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:47:58,303] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:47:58,304] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,304] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:47:58,316] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:47:58,325] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,325] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:47:58,335] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,335] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:47:58,335] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,335] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:47:58,336] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,336] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:47:58,339] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,339] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:47:58,341] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,341] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:47:58,341] {logging_mixin.py:115} INFO - [2023-02-24 10:47:58,341] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:47:58,346] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.045 seconds
+[2023-02-24 10:48:31,919] {processor.py:153} INFO - Started process (PID=6614) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:48:31,920] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:48:31,920] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,920] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:48:31,931] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:48:31,940] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,940] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:48:31,949] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,949] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:48:31,949] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,949] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:48:31,949] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,949] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:48:31,952] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,952] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:48:31,954] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,954] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:48:31,954] {logging_mixin.py:115} INFO - [2023-02-24 10:48:31,954] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:48:31,959] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.041 seconds
+[2023-02-24 10:49:04,426] {processor.py:153} INFO - Started process (PID=6991) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:49:04,426] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:49:04,427] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,427] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:49:04,442] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:49:04,451] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,451] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:49:04,461] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,461] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:49:04,461] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,461] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:49:04,461] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,461] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:49:04,463] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,463] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:49:04,465] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,465] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:49:04,465] {logging_mixin.py:115} INFO - [2023-02-24 10:49:04,465] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:49:04,471] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.047 seconds
+[2023-02-24 10:49:38,612] {processor.py:153} INFO - Started process (PID=7411) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:49:38,613] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:49:38,613] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,613] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:49:38,624] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:49:38,633] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,633] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:49:38,642] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,641] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:49:38,642] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,642] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:49:38,642] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,642] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:49:38,644] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,644] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:49:38,646] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,646] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:49:38,646] {logging_mixin.py:115} INFO - [2023-02-24 10:49:38,646] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:49:38,651] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:50:13,312] {processor.py:153} INFO - Started process (PID=7590) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:50:13,312] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:50:13,312] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,312] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:50:13,322] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:50:13,332] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,332] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:50:13,340] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,340] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:50:13,340] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,340] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:50:13,340] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,340] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:50:13,343] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,343] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:50:13,345] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,345] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:50:13,345] {logging_mixin.py:115} INFO - [2023-02-24 10:50:13,345] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:50:13,350] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:50:45,227] {processor.py:153} INFO - Started process (PID=7763) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:50:45,227] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:50:45,227] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,227] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:50:45,238] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:50:45,247] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,247] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:50:45,255] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,255] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:50:45,255] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,255] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:50:45,255] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,255] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:50:45,258] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,258] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:50:45,260] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,260] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:50:45,260] {logging_mixin.py:115} INFO - [2023-02-24 10:50:45,260] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:50:45,264] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.039 seconds
+[2023-02-24 10:51:20,507] {processor.py:153} INFO - Started process (PID=7946) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:51:20,508] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:51:20,508] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,508] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:51:20,519] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:51:20,527] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,527] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:51:20,536] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,536] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:51:20,536] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,536] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:51:20,536] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,536] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:51:20,539] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,539] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:51:20,541] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,541] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:51:20,541] {logging_mixin.py:115} INFO - [2023-02-24 10:51:20,541] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:51:20,546] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:51:51,892] {processor.py:153} INFO - Started process (PID=8112) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:51:51,892] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:51:51,893] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,893] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:51:51,904] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:51:51,916] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,916] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:51:51,924] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,924] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:51:51,925] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,925] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:51:51,925] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,925] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:51:51,927] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,927] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:51:51,929] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,929] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:51:51,929] {logging_mixin.py:115} INFO - [2023-02-24 10:51:51,929] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:51:51,934] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.044 seconds
+[2023-02-24 10:52:27,398] {processor.py:153} INFO - Started process (PID=8294) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:52:27,400] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:52:27,400] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,400] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:52:27,413] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:52:27,423] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,423] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:52:27,434] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,434] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:52:27,434] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,434] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:52:27,434] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,434] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:52:27,437] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,437] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:52:27,439] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,439] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:52:27,439] {logging_mixin.py:115} INFO - [2023-02-24 10:52:27,439] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:52:27,445] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.048 seconds
+[2023-02-24 10:53:02,267] {processor.py:153} INFO - Started process (PID=8468) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:53:02,268] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:53:02,268] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,268] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:53:02,278] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:53:02,287] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,287] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:53:02,296] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,296] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:53:02,296] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,296] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:53:02,296] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,296] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:53:02,299] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,299] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:53:02,301] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,301] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:53:02,301] {logging_mixin.py:115} INFO - [2023-02-24 10:53:02,301] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:53:02,305] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:53:33,330] {processor.py:153} INFO - Started process (PID=8622) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:53:33,331] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:53:33,331] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,331] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:53:33,341] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:53:33,350] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,350] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:53:33,358] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,358] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:53:33,359] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,359] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:53:33,359] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,359] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:53:33,361] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,361] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:53:33,363] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,363] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:53:33,363] {logging_mixin.py:115} INFO - [2023-02-24 10:53:33,363] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:53:33,368] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.039 seconds
+[2023-02-24 10:54:06,371] {processor.py:153} INFO - Started process (PID=8871) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:54:06,372] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:54:06,373] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,373] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:54:06,385] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:54:06,394] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,394] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:54:06,402] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,402] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:54:06,402] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,402] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:54:06,402] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,402] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:54:06,405] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,405] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:54:06,407] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,407] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:54:06,407] {logging_mixin.py:115} INFO - [2023-02-24 10:54:06,407] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:54:06,412] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.042 seconds
+[2023-02-24 10:54:39,988] {processor.py:153} INFO - Started process (PID=9046) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:54:39,989] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:54:39,989] {logging_mixin.py:115} INFO - [2023-02-24 10:54:39,989] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:54:39,999] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:54:40,008] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,008] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:54:40,017] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,017] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:54:40,017] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,017] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:54:40,017] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,017] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:54:40,020] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,020] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:54:40,022] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,022] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:54:40,022] {logging_mixin.py:115} INFO - [2023-02-24 10:54:40,022] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:54:40,026] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:55:14,154] {processor.py:153} INFO - Started process (PID=9225) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:55:14,155] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:55:14,155] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,155] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:55:14,165] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:55:14,174] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,174] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:55:14,182] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,182] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:55:14,182] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,182] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:55:14,182] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,182] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:55:14,185] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,185] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:55:14,187] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,187] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:55:14,187] {logging_mixin.py:115} INFO - [2023-02-24 10:55:14,187] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:55:14,192] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.039 seconds
+[2023-02-24 10:55:49,670] {processor.py:153} INFO - Started process (PID=9408) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:55:49,671] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:55:49,671] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,671] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:55:49,682] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:55:49,691] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,691] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:55:49,699] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,699] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:55:49,699] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,699] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:55:49,699] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,699] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:55:49,702] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,702] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:55:49,704] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,704] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:55:49,704] {logging_mixin.py:115} INFO - [2023-02-24 10:55:49,704] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:55:49,708] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:56:22,938] {processor.py:153} INFO - Started process (PID=9580) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:56:22,939] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:56:22,939] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,939] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:56:22,949] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:56:22,959] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,959] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:56:22,967] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,967] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:56:22,967] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,967] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:56:22,967] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,967] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:56:22,969] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,969] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:56:22,971] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,971] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:56:22,971] {logging_mixin.py:115} INFO - [2023-02-24 10:56:22,971] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:56:22,976] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:56:56,741] {processor.py:153} INFO - Started process (PID=9753) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:56:56,741] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:56:56,741] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,741] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:56:56,752] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:56:56,761] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,761] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:56:56,769] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,769] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:56:56,769] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,769] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:56:56,770] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,770] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:56:56,772] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,772] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:56:56,774] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,774] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:56:56,774] {logging_mixin.py:115} INFO - [2023-02-24 10:56:56,774] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:56:56,779] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:57:29,286] {processor.py:153} INFO - Started process (PID=9918) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:57:29,287] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:57:29,287] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,287] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:57:29,297] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:57:29,306] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,306] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:57:29,315] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,315] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:57:29,315] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,315] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:57:29,315] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,315] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:57:29,318] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,318] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:57:29,320] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,320] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:57:29,320] {logging_mixin.py:115} INFO - [2023-02-24 10:57:29,320] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:57:29,324] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 10:58:01,192] {processor.py:153} INFO - Started process (PID=10090) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:58:01,193] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:58:01,193] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,193] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:58:01,203] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:58:01,214] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,213] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:58:01,222] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,222] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:58:01,222] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,222] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:58:01,222] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,222] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:58:01,225] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,225] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:58:01,227] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,227] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:58:01,227] {logging_mixin.py:115} INFO - [2023-02-24 10:58:01,227] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:58:01,232] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.041 seconds
+[2023-02-24 10:58:33,818] {processor.py:153} INFO - Started process (PID=10258) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:58:33,819] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:58:33,819] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,819] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:58:33,830] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:58:33,839] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,839] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:58:33,847] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,847] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:58:33,847] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,847] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:58:33,848] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,848] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:58:33,850] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,850] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:58:33,852] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,852] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:58:33,852] {logging_mixin.py:115} INFO - [2023-02-24 10:58:33,852] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:58:33,858] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.041 seconds
+[2023-02-24 10:59:06,722] {processor.py:153} INFO - Started process (PID=10428) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:59:06,723] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:59:06,723] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,723] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:59:06,733] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:59:06,742] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,742] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:59:06,750] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,750] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:59:06,750] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,750] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:59:06,750] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,750] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:59:06,753] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,753] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:59:06,755] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,755] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:59:06,755] {logging_mixin.py:115} INFO - [2023-02-24 10:59:06,755] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:59:06,759] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.038 seconds
+[2023-02-24 10:59:39,450] {processor.py:153} INFO - Started process (PID=10595) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:59:39,451] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 10:59:39,451] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,451] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:59:39,461] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 10:59:39,470] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,470] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 10:59:39,479] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,479] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 10:59:39,480] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,479] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:59:39,480] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,480] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:59:39,482] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,482] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 10:59:39,484] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,484] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 10:59:39,484] {logging_mixin.py:115} INFO - [2023-02-24 10:59:39,484] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 10:59:39,489] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 11:00:11,957] {processor.py:153} INFO - Started process (PID=10769) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:00:11,957] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:00:11,958] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,958] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:00:11,968] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:00:11,977] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,977] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:00:11,985] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,985] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:00:11,985] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,985] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:00:11,986] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,986] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:00:11,989] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,989] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:00:11,991] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,991] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:00:11,991] {logging_mixin.py:115} INFO - [2023-02-24 11:00:11,991] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:00:11,996] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 11:00:50,392] {processor.py:153} INFO - Started process (PID=10974) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:00:50,392] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:00:50,393] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,392] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:00:50,405] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:00:50,414] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,414] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:00:50,423] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,423] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:00:50,424] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,424] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:00:50,424] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,424] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:00:50,426] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,426] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:00:50,428] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,428] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:00:50,428] {logging_mixin.py:115} INFO - [2023-02-24 11:00:50,428] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:00:50,433] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.042 seconds
+[2023-02-24 11:01:24,746] {processor.py:153} INFO - Started process (PID=11161) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:01:24,746] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:01:24,746] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,746] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:01:24,757] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:01:24,766] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,766] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:01:24,774] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,774] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:01:24,774] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,774] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:01:24,774] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,774] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:01:24,777] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,777] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:01:24,779] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,779] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:01:24,779] {logging_mixin.py:115} INFO - [2023-02-24 11:01:24,779] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:01:24,784] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds
+[2023-02-24 11:01:59,148] {processor.py:153} INFO - Started process (PID=11345) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:01:59,149] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:01:59,149] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,149] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:01:59,159] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:01:59,168] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,168] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:01:59,176] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,176] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:01:59,176] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,176] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:01:59,177] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,177] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:01:59,179] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,179] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:01:59,181] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,181] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:01:59,181] {logging_mixin.py:115} INFO - [2023-02-24 11:01:59,181] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:01:59,186] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.039 seconds
+[2023-02-24 11:02:33,940] {processor.py:153} INFO - Started process (PID=11523) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:02:33,941] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:02:33,941] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,941] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:02:33,951] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:02:33,960] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,960] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:02:33,968] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,968] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:02:33,968] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,968] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:02:33,968] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,968] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:02:33,971] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,971] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:02:33,973] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,973] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:02:33,973] {logging_mixin.py:115} INFO - [2023-02-24 11:02:33,973] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:02:33,978] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.039 seconds
+[2023-02-24 11:03:06,811] {processor.py:153} INFO - Started process (PID=11696) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:03:06,812] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:03:06,812] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,812] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:03:06,823] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:03:06,831] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,831] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:03:06,840] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,840] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:03:06,840] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,840] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:03:06,840] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,840] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:03:06,843] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,843] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:03:06,845] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,844] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:03:06,845] {logging_mixin.py:115} INFO - [2023-02-24 11:03:06,845] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:03:06,849] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.039 seconds
+[2023-02-24 11:03:41,198] {processor.py:153} INFO - Started process (PID=11917) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:03:41,199] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:03:41,199] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,199] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:03:41,212] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:03:41,225] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,225] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:03:41,237] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,237] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:03:41,237] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,237] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:03:41,237] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,237] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:03:41,241] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,241] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:03:41,244] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,244] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:03:41,244] {logging_mixin.py:115} INFO - [2023-02-24 11:03:41,244] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:03:41,252] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.056 seconds
+[2023-02-24 11:04:14,267] {processor.py:153} INFO - Started process (PID=12140) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:04:14,268] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:04:14,268] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,268] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:04:14,279] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:04:14,288] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,288] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:04:14,297] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,297] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:04:14,297] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,297] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:04:14,298] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,298] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:04:14,300] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,300] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:04:14,303] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,303] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:04:14,303] {logging_mixin.py:115} INFO - [2023-02-24 11:04:14,303] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:04:14,308] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.042 seconds
+[2023-02-24 11:04:49,155] {processor.py:153} INFO - Started process (PID=12343) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:04:49,156] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:04:49,156] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,156] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:04:49,166] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:04:49,176] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,176] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:04:49,185] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,185] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:04:49,185] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,185] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:04:49,185] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,185] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:04:49,188] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,188] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:04:49,190] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,190] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:04:49,190] {logging_mixin.py:115} INFO - [2023-02-24 11:04:49,190] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:04:49,195] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.041 seconds
+[2023-02-24 11:05:22,076] {processor.py:153} INFO - Started process (PID=12541) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:05:22,077] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py for tasks to queue
+[2023-02-24 11:05:22,077] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,077] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:05:22,088] {processor.py:651} INFO - DAG(s) dict_keys(['example_subdag_operator.section-1', 'example_subdag_operator.section-2', 'example_subdag_operator']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py
+[2023-02-24 11:05:22,097] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,097] {dag.py:2379} INFO - Sync 3 DAGs
+[2023-02-24 11:05:22,105] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,105] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator to 2022-01-01T00:00:00+00:00, run_after=2022-01-01T00:00:00+00:00
+[2023-02-24 11:05:22,106] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,105] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:05:22,106] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,106] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:05:22,108] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,108] {dag.py:2379} INFO - Sync 2 DAGs
+[2023-02-24 11:05:22,110] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,110] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-1 to None, run_after=None
+[2023-02-24 11:05:22,110] {logging_mixin.py:115} INFO - [2023-02-24 11:05:22,110] {dag.py:2927} INFO - Setting next_dagrun for example_subdag_operator.section-2 to None, run_after=None
+[2023-02-24 11:05:22,115] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_subdag_operator.py took 0.040 seconds

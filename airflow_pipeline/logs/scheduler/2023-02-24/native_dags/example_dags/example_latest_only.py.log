@@ -1,0 +1,242 @@
+[2023-02-24 10:47:11,004] {processor.py:153} INFO - Started process (PID=5788) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:47:11,004] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:47:11,004] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,004] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:47:11,007] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:47:11,046] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,046] {manager.py:508} INFO - Created Permission View: can delete on DAG:latest_only
+[2023-02-24 10:47:11,056] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,056] {manager.py:508} INFO - Created Permission View: can edit on DAG:latest_only
+[2023-02-24 10:47:11,061] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,061] {manager.py:508} INFO - Created Permission View: can read on DAG:latest_only
+[2023-02-24 10:47:11,061] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,061] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:47:11,068] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,068] {dag.py:2398} INFO - Creating ORM DAG for latest_only
+[2023-02-24 10:47:11,077] {logging_mixin.py:115} INFO - [2023-02-24 10:47:11,077] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:47:11.076598+00:00, run_after=2023-02-24T18:47:11.076598+00:00
+[2023-02-24 10:47:11,092] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.089 seconds
+[2023-02-24 10:47:44,655] {processor.py:153} INFO - Started process (PID=6171) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:47:44,656] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:47:44,656] {logging_mixin.py:115} INFO - [2023-02-24 10:47:44,656] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:47:44,659] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:47:44,668] {logging_mixin.py:115} INFO - [2023-02-24 10:47:44,668] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:47:44,678] {logging_mixin.py:115} INFO - [2023-02-24 10:47:44,678] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:47:44.678427+00:00, run_after=2023-02-24T18:47:44.678427+00:00
+[2023-02-24 10:47:44,685] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.032 seconds
+[2023-02-24 10:48:19,144] {processor.py:153} INFO - Started process (PID=6486) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:48:19,144] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:48:19,145] {logging_mixin.py:115} INFO - [2023-02-24 10:48:19,144] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:48:19,148] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:48:19,157] {logging_mixin.py:115} INFO - [2023-02-24 10:48:19,157] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:19,166] {logging_mixin.py:115} INFO - [2023-02-24 10:48:19,166] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:48:19.166614+00:00, run_after=2023-02-24T18:48:19.166614+00:00
+[2023-02-24 10:48:19,173] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2023-02-24 10:48:52,443] {processor.py:153} INFO - Started process (PID=6837) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:48:52,443] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:48:52,443] {logging_mixin.py:115} INFO - [2023-02-24 10:48:52,443] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:48:52,446] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:48:52,462] {logging_mixin.py:115} INFO - [2023-02-24 10:48:52,462] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:52,471] {logging_mixin.py:115} INFO - [2023-02-24 10:48:52,471] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:48:52.471517+00:00, run_after=2023-02-24T18:48:52.471517+00:00
+[2023-02-24 10:48:52,478] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.037 seconds
+[2023-02-24 10:49:25,291] {processor.py:153} INFO - Started process (PID=7342) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:49:25,292] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:49:25,293] {logging_mixin.py:115} INFO - [2023-02-24 10:49:25,293] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:49:25,296] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:49:25,304] {logging_mixin.py:115} INFO - [2023-02-24 10:49:25,304] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:49:25,313] {logging_mixin.py:115} INFO - [2023-02-24 10:49:25,312] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:49:25.312816+00:00, run_after=2023-02-24T18:49:25.312816+00:00
+[2023-02-24 10:49:25,319] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 10:50:00,176] {processor.py:153} INFO - Started process (PID=7519) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:50:00,176] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:50:00,177] {logging_mixin.py:115} INFO - [2023-02-24 10:50:00,177] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:50:00,179] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:50:00,188] {logging_mixin.py:115} INFO - [2023-02-24 10:50:00,188] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:00,197] {logging_mixin.py:115} INFO - [2023-02-24 10:50:00,197] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:50:00.197739+00:00, run_after=2023-02-24T18:50:00.197739+00:00
+[2023-02-24 10:50:00,205] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 10:50:32,083] {processor.py:153} INFO - Started process (PID=7691) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:50:32,084] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:50:32,084] {logging_mixin.py:115} INFO - [2023-02-24 10:50:32,084] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:50:32,087] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:50:32,095] {logging_mixin.py:115} INFO - [2023-02-24 10:50:32,095] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:32,104] {logging_mixin.py:115} INFO - [2023-02-24 10:50:32,104] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:50:32.104418+00:00, run_after=2023-02-24T18:50:32.104418+00:00
+[2023-02-24 10:50:32,110] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:51:06,507] {processor.py:153} INFO - Started process (PID=7872) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:51:06,508] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:51:06,508] {logging_mixin.py:115} INFO - [2023-02-24 10:51:06,508] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:51:06,511] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:51:06,519] {logging_mixin.py:115} INFO - [2023-02-24 10:51:06,519] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:06,528] {logging_mixin.py:115} INFO - [2023-02-24 10:51:06,528] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:51:06.528204+00:00, run_after=2023-02-24T18:51:06.528204+00:00
+[2023-02-24 10:51:06,536] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 10:51:38,016] {processor.py:153} INFO - Started process (PID=8040) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:51:38,017] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:51:38,017] {logging_mixin.py:115} INFO - [2023-02-24 10:51:38,017] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:51:38,022] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:51:38,031] {logging_mixin.py:115} INFO - [2023-02-24 10:51:38,031] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:38,041] {logging_mixin.py:115} INFO - [2023-02-24 10:51:38,041] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:51:38.041199+00:00, run_after=2023-02-24T18:51:38.041199+00:00
+[2023-02-24 10:51:38,047] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2023-02-24 10:52:09,397] {processor.py:153} INFO - Started process (PID=8199) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:52:09,398] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:52:09,398] {logging_mixin.py:115} INFO - [2023-02-24 10:52:09,398] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:52:09,401] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:52:09,409] {logging_mixin.py:115} INFO - [2023-02-24 10:52:09,409] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:09,419] {logging_mixin.py:115} INFO - [2023-02-24 10:52:09,419] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:52:09.418887+00:00, run_after=2023-02-24T18:52:09.418887+00:00
+[2023-02-24 10:52:09,426] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 10:52:42,023] {processor.py:153} INFO - Started process (PID=8366) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:52:42,024] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:52:42,024] {logging_mixin.py:115} INFO - [2023-02-24 10:52:42,024] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:52:42,027] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:52:42,044] {logging_mixin.py:115} INFO - [2023-02-24 10:52:42,044] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:42,056] {logging_mixin.py:115} INFO - [2023-02-24 10:52:42,056] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:52:42.055872+00:00, run_after=2023-02-24T18:52:42.055872+00:00
+[2023-02-24 10:52:42,064] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.042 seconds
+[2023-02-24 10:53:13,942] {processor.py:153} INFO - Started process (PID=8526) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:53:13,943] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:53:13,943] {logging_mixin.py:115} INFO - [2023-02-24 10:53:13,943] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:53:13,946] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:53:13,954] {logging_mixin.py:115} INFO - [2023-02-24 10:53:13,954] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:13,963] {logging_mixin.py:115} INFO - [2023-02-24 10:53:13,963] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:53:13.962921+00:00, run_after=2023-02-24T18:53:13.962921+00:00
+[2023-02-24 10:53:13,969] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.028 seconds
+[2023-02-24 10:53:46,974] {processor.py:153} INFO - Started process (PID=8689) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:53:46,974] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:53:46,975] {logging_mixin.py:115} INFO - [2023-02-24 10:53:46,975] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:53:46,978] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:53:46,986] {logging_mixin.py:115} INFO - [2023-02-24 10:53:46,986] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:46,996] {logging_mixin.py:115} INFO - [2023-02-24 10:53:46,996] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:53:46.996100+00:00, run_after=2023-02-24T18:53:46.996100+00:00
+[2023-02-24 10:53:47,005] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.033 seconds
+[2023-02-24 10:54:19,502] {processor.py:153} INFO - Started process (PID=8942) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:54:19,502] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:54:19,503] {logging_mixin.py:115} INFO - [2023-02-24 10:54:19,503] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:54:19,505] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:54:19,514] {logging_mixin.py:115} INFO - [2023-02-24 10:54:19,514] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:19,523] {logging_mixin.py:115} INFO - [2023-02-24 10:54:19,523] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:54:19.523080+00:00, run_after=2023-02-24T18:54:19.523080+00:00
+[2023-02-24 10:54:19,529] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:54:51,376] {processor.py:153} INFO - Started process (PID=9102) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:54:51,376] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:54:51,377] {logging_mixin.py:115} INFO - [2023-02-24 10:54:51,376] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:54:51,379] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:54:51,387] {logging_mixin.py:115} INFO - [2023-02-24 10:54:51,387] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:51,397] {logging_mixin.py:115} INFO - [2023-02-24 10:54:51,397] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:54:51.397200+00:00, run_after=2023-02-24T18:54:51.397200+00:00
+[2023-02-24 10:54:51,404] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:55:22,535] {processor.py:153} INFO - Started process (PID=9268) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:55:22,535] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:55:22,535] {logging_mixin.py:115} INFO - [2023-02-24 10:55:22,535] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:55:22,538] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:55:22,546] {logging_mixin.py:115} INFO - [2023-02-24 10:55:22,546] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:22,557] {logging_mixin.py:115} INFO - [2023-02-24 10:55:22,557] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:55:22.556849+00:00, run_after=2023-02-24T18:55:22.556849+00:00
+[2023-02-24 10:55:22,564] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2023-02-24 10:55:54,938] {processor.py:153} INFO - Started process (PID=9433) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:55:54,938] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:55:54,939] {logging_mixin.py:115} INFO - [2023-02-24 10:55:54,939] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:55:54,941] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:55:54,949] {logging_mixin.py:115} INFO - [2023-02-24 10:55:54,949] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:54,959] {logging_mixin.py:115} INFO - [2023-02-24 10:55:54,959] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:55:54.958857+00:00, run_after=2023-02-24T18:55:54.958857+00:00
+[2023-02-24 10:55:54,966] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 10:56:27,695] {processor.py:153} INFO - Started process (PID=9603) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:56:27,696] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:56:27,696] {logging_mixin.py:115} INFO - [2023-02-24 10:56:27,696] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:56:27,699] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:56:27,707] {logging_mixin.py:115} INFO - [2023-02-24 10:56:27,707] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:27,716] {logging_mixin.py:115} INFO - [2023-02-24 10:56:27,716] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:56:27.716230+00:00, run_after=2023-02-24T18:56:27.716230+00:00
+[2023-02-24 10:56:27,723] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:57:01,595] {processor.py:153} INFO - Started process (PID=9777) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:57:01,595] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:57:01,595] {logging_mixin.py:115} INFO - [2023-02-24 10:57:01,595] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:57:01,598] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:57:01,606] {logging_mixin.py:115} INFO - [2023-02-24 10:57:01,606] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:01,615] {logging_mixin.py:115} INFO - [2023-02-24 10:57:01,615] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:57:01.615126+00:00, run_after=2023-02-24T18:57:01.615126+00:00
+[2023-02-24 10:57:01,622] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:57:34,416] {processor.py:153} INFO - Started process (PID=9946) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:57:34,416] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:57:34,417] {logging_mixin.py:115} INFO - [2023-02-24 10:57:34,417] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:57:34,420] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:57:34,428] {logging_mixin.py:115} INFO - [2023-02-24 10:57:34,428] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:34,438] {logging_mixin.py:115} INFO - [2023-02-24 10:57:34,438] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:57:34.437920+00:00, run_after=2023-02-24T18:57:34.437920+00:00
+[2023-02-24 10:57:34,444] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 10:58:07,449] {processor.py:153} INFO - Started process (PID=10120) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:58:07,450] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:58:07,450] {logging_mixin.py:115} INFO - [2023-02-24 10:58:07,450] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:58:07,453] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:58:07,460] {logging_mixin.py:115} INFO - [2023-02-24 10:58:07,460] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:07,469] {logging_mixin.py:115} INFO - [2023-02-24 10:58:07,469] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:58:07.469488+00:00, run_after=2023-02-24T18:58:07.469488+00:00
+[2023-02-24 10:58:07,476] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.028 seconds
+[2023-02-24 10:58:41,112] {processor.py:153} INFO - Started process (PID=10296) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:58:41,113] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:58:41,113] {logging_mixin.py:115} INFO - [2023-02-24 10:58:41,113] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:58:41,116] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:58:41,124] {logging_mixin.py:115} INFO - [2023-02-24 10:58:41,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:41,133] {logging_mixin.py:115} INFO - [2023-02-24 10:58:41,133] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:58:41.132878+00:00, run_after=2023-02-24T18:58:41.132878+00:00
+[2023-02-24 10:58:41,139] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:59:13,195] {processor.py:153} INFO - Started process (PID=10463) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:59:13,195] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:59:13,195] {logging_mixin.py:115} INFO - [2023-02-24 10:59:13,195] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:59:13,198] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:59:13,207] {logging_mixin.py:115} INFO - [2023-02-24 10:59:13,206] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:13,215] {logging_mixin.py:115} INFO - [2023-02-24 10:59:13,215] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:59:13.215136+00:00, run_after=2023-02-24T18:59:13.215136+00:00
+[2023-02-24 10:59:13,222] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 10:59:44,890] {processor.py:153} INFO - Started process (PID=10627) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:59:44,891] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 10:59:44,891] {logging_mixin.py:115} INFO - [2023-02-24 10:59:44,891] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:59:44,893] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 10:59:44,902] {logging_mixin.py:115} INFO - [2023-02-24 10:59:44,902] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:44,911] {logging_mixin.py:115} INFO - [2023-02-24 10:59:44,911] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T14:59:44.911023+00:00, run_after=2023-02-24T18:59:44.911023+00:00
+[2023-02-24 10:59:44,918] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds
+[2023-02-24 11:00:16,721] {processor.py:153} INFO - Started process (PID=10794) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:00:16,721] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:00:16,722] {logging_mixin.py:115} INFO - [2023-02-24 11:00:16,722] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:00:16,725] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:00:16,733] {logging_mixin.py:115} INFO - [2023-02-24 11:00:16,733] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:16,742] {logging_mixin.py:115} INFO - [2023-02-24 11:00:16,742] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:00:16.742570+00:00, run_after=2023-02-24T19:00:16.742570+00:00
+[2023-02-24 11:00:16,749] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 11:00:49,260] {processor.py:153} INFO - Started process (PID=10968) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:00:49,261] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:00:49,261] {logging_mixin.py:115} INFO - [2023-02-24 11:00:49,261] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:00:49,264] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:00:49,272] {logging_mixin.py:115} INFO - [2023-02-24 11:00:49,272] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:49,280] {logging_mixin.py:115} INFO - [2023-02-24 11:00:49,280] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:00:49.280577+00:00, run_after=2023-02-24T19:00:49.280577+00:00
+[2023-02-24 11:00:49,287] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.028 seconds
+[2023-02-24 11:01:23,620] {processor.py:153} INFO - Started process (PID=11158) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:01:23,620] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:01:23,620] {logging_mixin.py:115} INFO - [2023-02-24 11:01:23,620] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:01:23,623] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:01:23,631] {logging_mixin.py:115} INFO - [2023-02-24 11:01:23,631] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:01:23,640] {logging_mixin.py:115} INFO - [2023-02-24 11:01:23,640] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:01:23.640461+00:00, run_after=2023-02-24T19:01:23.640461+00:00
+[2023-02-24 11:01:23,647] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 11:01:55,503] {processor.py:153} INFO - Started process (PID=11325) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:01:55,504] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:01:55,504] {logging_mixin.py:115} INFO - [2023-02-24 11:01:55,504] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:01:55,507] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:01:55,515] {logging_mixin.py:115} INFO - [2023-02-24 11:01:55,515] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:01:55,523] {logging_mixin.py:115} INFO - [2023-02-24 11:01:55,523] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:01:55.523702+00:00, run_after=2023-02-24T19:01:55.523702+00:00
+[2023-02-24 11:01:55,531] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 11:02:27,684] {processor.py:153} INFO - Started process (PID=11490) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:02:27,684] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:02:27,685] {logging_mixin.py:115} INFO - [2023-02-24 11:02:27,685] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:02:27,687] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:02:27,695] {logging_mixin.py:115} INFO - [2023-02-24 11:02:27,695] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:27,704] {logging_mixin.py:115} INFO - [2023-02-24 11:02:27,704] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:02:27.704564+00:00, run_after=2023-02-24T19:02:27.704564+00:00
+[2023-02-24 11:02:27,711] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.028 seconds
+[2023-02-24 11:03:00,676] {processor.py:153} INFO - Started process (PID=11661) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:03:00,677] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:03:00,677] {logging_mixin.py:115} INFO - [2023-02-24 11:03:00,677] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:03:00,680] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:03:00,688] {logging_mixin.py:115} INFO - [2023-02-24 11:03:00,688] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:00,696] {logging_mixin.py:115} INFO - [2023-02-24 11:03:00,696] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:03:00.696683+00:00, run_after=2023-02-24T19:03:00.696683+00:00
+[2023-02-24 11:03:00,703] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.028 seconds
+[2023-02-24 11:03:34,351] {processor.py:153} INFO - Started process (PID=11840) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:03:34,352] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:03:34,352] {logging_mixin.py:115} INFO - [2023-02-24 11:03:34,352] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:03:34,355] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:03:34,363] {logging_mixin.py:115} INFO - [2023-02-24 11:03:34,363] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:34,373] {logging_mixin.py:115} INFO - [2023-02-24 11:03:34,373] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:03:34.372962+00:00, run_after=2023-02-24T19:03:34.372962+00:00
+[2023-02-24 11:03:34,380] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.031 seconds
+[2023-02-24 11:04:07,563] {processor.py:153} INFO - Started process (PID=12096) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:04:07,563] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:04:07,564] {logging_mixin.py:115} INFO - [2023-02-24 11:04:07,564] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:04:07,566] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:04:07,576] {logging_mixin.py:115} INFO - [2023-02-24 11:04:07,576] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:04:07,585] {logging_mixin.py:115} INFO - [2023-02-24 11:04:07,585] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:04:07.585193+00:00, run_after=2023-02-24T19:04:07.585193+00:00
+[2023-02-24 11:04:07,593] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.032 seconds
+[2023-02-24 11:04:41,652] {processor.py:153} INFO - Started process (PID=12299) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:04:41,652] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:04:41,652] {logging_mixin.py:115} INFO - [2023-02-24 11:04:41,652] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:04:41,655] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:04:41,663] {logging_mixin.py:115} INFO - [2023-02-24 11:04:41,663] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:04:41,673] {logging_mixin.py:115} INFO - [2023-02-24 11:04:41,672] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:04:41.672767+00:00, run_after=2023-02-24T19:04:41.672767+00:00
+[2023-02-24 11:04:41,679] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.029 seconds
+[2023-02-24 11:05:15,196] {processor.py:153} INFO - Started process (PID=12499) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:05:15,197] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py for tasks to queue
+[2023-02-24 11:05:15,197] {logging_mixin.py:115} INFO - [2023-02-24 11:05:15,197] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:05:15,200] {processor.py:651} INFO - DAG(s) dict_keys(['latest_only']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py
+[2023-02-24 11:05:15,208] {logging_mixin.py:115} INFO - [2023-02-24 11:05:15,208] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:05:15,217] {logging_mixin.py:115} INFO - [2023-02-24 11:05:15,217] {dag.py:2927} INFO - Setting next_dagrun for latest_only to 2023-02-24T15:05:15.217506+00:00, run_after=2023-02-24T19:05:15.217506+00:00
+[2023-02-24 11:05:15,225] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/example_latest_only.py took 0.030 seconds

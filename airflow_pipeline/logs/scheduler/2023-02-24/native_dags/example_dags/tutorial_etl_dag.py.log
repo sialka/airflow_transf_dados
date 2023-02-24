@@ -1,0 +1,249 @@
+[2023-02-24 10:47:05,052] {processor.py:153} INFO - Started process (PID=5768) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:47:05,062] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:47:05,063] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,063] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:47:05,154] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:47:05,539] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,539] {manager.py:508} INFO - Created Permission View: can delete on DAG:tutorial_etl_dag
+[2023-02-24 10:47:05,614] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,614] {manager.py:508} INFO - Created Permission View: can edit on DAG:tutorial_etl_dag
+[2023-02-24 10:47:05,631] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,631] {manager.py:508} INFO - Created Permission View: can read on DAG:tutorial_etl_dag
+[2023-02-24 10:47:05,631] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,631] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:47:05,657] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,657] {dag.py:2398} INFO - Creating ORM DAG for tutorial_etl_dag
+[2023-02-24 10:47:05,700] {logging_mixin.py:115} INFO - [2023-02-24 10:47:05,700] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:47:05,733] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.746 seconds
+[2023-02-24 10:47:39,524] {processor.py:153} INFO - Started process (PID=6129) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:47:39,525] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:47:39,525] {logging_mixin.py:115} INFO - [2023-02-24 10:47:39,525] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:47:39,529] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:47:39,537] {logging_mixin.py:115} INFO - [2023-02-24 10:47:39,537] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:47:39,546] {logging_mixin.py:115} INFO - [2023-02-24 10:47:39,546] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:47:39,552] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:48:12,563] {processor.py:153} INFO - Started process (PID=6413) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:48:12,564] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:48:12,564] {logging_mixin.py:115} INFO - [2023-02-24 10:48:12,564] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:48:12,568] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:48:12,576] {logging_mixin.py:115} INFO - [2023-02-24 10:48:12,576] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:12,585] {logging_mixin.py:115} INFO - [2023-02-24 10:48:12,585] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:48:12,593] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.031 seconds
+[2023-02-24 10:48:45,909] {processor.py:153} INFO - Started process (PID=6753) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:48:45,910] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:48:45,910] {logging_mixin.py:115} INFO - [2023-02-24 10:48:45,910] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:48:45,914] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:48:45,922] {logging_mixin.py:115} INFO - [2023-02-24 10:48:45,922] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:48:45,930] {logging_mixin.py:115} INFO - [2023-02-24 10:48:45,930] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:48:45,937] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:49:16,960] {processor.py:153} INFO - Started process (PID=7286) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:49:16,961] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:49:16,961] {logging_mixin.py:115} INFO - [2023-02-24 10:49:16,961] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:49:16,964] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:49:16,973] {logging_mixin.py:115} INFO - [2023-02-24 10:49:16,973] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:49:16,982] {logging_mixin.py:115} INFO - [2023-02-24 10:49:16,982] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:49:16,989] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:49:48,873] {processor.py:153} INFO - Started process (PID=7462) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:49:48,873] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:49:48,874] {logging_mixin.py:115} INFO - [2023-02-24 10:49:48,873] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:49:48,877] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:49:48,885] {logging_mixin.py:115} INFO - [2023-02-24 10:49:48,885] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:49:48,894] {logging_mixin.py:115} INFO - [2023-02-24 10:49:48,893] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:49:48,900] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.028 seconds
+[2023-02-24 10:50:19,998] {processor.py:153} INFO - Started process (PID=7627) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:50:19,998] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:50:19,999] {logging_mixin.py:115} INFO - [2023-02-24 10:50:19,999] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:50:20,002] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:50:20,010] {logging_mixin.py:115} INFO - [2023-02-24 10:50:20,010] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:20,019] {logging_mixin.py:115} INFO - [2023-02-24 10:50:20,019] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:50:20,025] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:50:53,626] {processor.py:153} INFO - Started process (PID=7805) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:50:53,627] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:50:53,627] {logging_mixin.py:115} INFO - [2023-02-24 10:50:53,627] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:50:53,631] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:50:53,639] {logging_mixin.py:115} INFO - [2023-02-24 10:50:53,639] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:50:53,648] {logging_mixin.py:115} INFO - [2023-02-24 10:50:53,648] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:50:53,654] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:51:25,141] {processor.py:153} INFO - Started process (PID=7968) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:51:25,141] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:51:25,141] {logging_mixin.py:115} INFO - [2023-02-24 10:51:25,141] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:51:25,145] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:51:25,154] {logging_mixin.py:115} INFO - [2023-02-24 10:51:25,153] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:25,162] {logging_mixin.py:115} INFO - [2023-02-24 10:51:25,162] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:51:25,169] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:51:55,891] {processor.py:153} INFO - Started process (PID=8130) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:51:55,892] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:51:55,892] {logging_mixin.py:115} INFO - [2023-02-24 10:51:55,892] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:51:55,896] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:51:55,904] {logging_mixin.py:115} INFO - [2023-02-24 10:51:55,904] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:51:55,912] {logging_mixin.py:115} INFO - [2023-02-24 10:51:55,912] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:51:55,919] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:52:26,680] {processor.py:153} INFO - Started process (PID=8289) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:52:26,680] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:52:26,681] {logging_mixin.py:115} INFO - [2023-02-24 10:52:26,681] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:52:26,688] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:52:26,703] {logging_mixin.py:115} INFO - [2023-02-24 10:52:26,703] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:52:26,718] {logging_mixin.py:115} INFO - [2023-02-24 10:52:26,718] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:52:26,731] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.054 seconds
+[2023-02-24 10:53:00,019] {processor.py:153} INFO - Started process (PID=8457) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:53:00,020] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:53:00,020] {logging_mixin.py:115} INFO - [2023-02-24 10:53:00,020] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:53:00,024] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:53:00,032] {logging_mixin.py:115} INFO - [2023-02-24 10:53:00,032] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:00,041] {logging_mixin.py:115} INFO - [2023-02-24 10:53:00,041] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:53:00,048] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:53:31,580] {processor.py:153} INFO - Started process (PID=8611) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:53:31,580] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:53:31,581] {logging_mixin.py:115} INFO - [2023-02-24 10:53:31,580] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:53:31,584] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:53:31,592] {logging_mixin.py:115} INFO - [2023-02-24 10:53:31,592] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:53:31,601] {logging_mixin.py:115} INFO - [2023-02-24 10:53:31,601] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:53:31,607] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:54:04,111] {processor.py:153} INFO - Started process (PID=8860) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:54:04,112] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:54:04,113] {logging_mixin.py:115} INFO - [2023-02-24 10:54:04,112] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:54:04,117] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:54:04,124] {logging_mixin.py:115} INFO - [2023-02-24 10:54:04,124] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:04,133] {logging_mixin.py:115} INFO - [2023-02-24 10:54:04,133] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:54:04,140] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:54:38,281] {processor.py:153} INFO - Started process (PID=9037) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:54:38,281] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:54:38,282] {logging_mixin.py:115} INFO - [2023-02-24 10:54:38,282] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:54:38,285] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:54:38,293] {logging_mixin.py:115} INFO - [2023-02-24 10:54:38,293] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:54:38,301] {logging_mixin.py:115} INFO - [2023-02-24 10:54:38,301] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:54:38,308] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:55:10,364] {processor.py:153} INFO - Started process (PID=9205) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:55:10,364] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:55:10,365] {logging_mixin.py:115} INFO - [2023-02-24 10:55:10,365] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:55:10,369] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:55:10,377] {logging_mixin.py:115} INFO - [2023-02-24 10:55:10,377] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:10,386] {logging_mixin.py:115} INFO - [2023-02-24 10:55:10,386] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:55:10,392] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:55:43,810] {processor.py:153} INFO - Started process (PID=9378) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:55:43,810] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:55:43,811] {logging_mixin.py:115} INFO - [2023-02-24 10:55:43,811] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:55:43,814] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:55:43,822] {logging_mixin.py:115} INFO - [2023-02-24 10:55:43,822] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:55:43,830] {logging_mixin.py:115} INFO - [2023-02-24 10:55:43,830] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:55:43,837] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.028 seconds
+[2023-02-24 10:56:17,435] {processor.py:153} INFO - Started process (PID=9548) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:56:17,436] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:56:17,436] {logging_mixin.py:115} INFO - [2023-02-24 10:56:17,436] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:56:17,440] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:56:17,448] {logging_mixin.py:115} INFO - [2023-02-24 10:56:17,448] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:17,457] {logging_mixin.py:115} INFO - [2023-02-24 10:56:17,457] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:56:17,463] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:56:50,342] {processor.py:153} INFO - Started process (PID=9721) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:56:50,343] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:56:50,343] {logging_mixin.py:115} INFO - [2023-02-24 10:56:50,343] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:56:50,346] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:56:50,354] {logging_mixin.py:115} INFO - [2023-02-24 10:56:50,354] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:56:50,362] {logging_mixin.py:115} INFO - [2023-02-24 10:56:50,362] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:56:50,370] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 10:57:21,848] {processor.py:153} INFO - Started process (PID=9878) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:57:21,848] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:57:21,849] {logging_mixin.py:115} INFO - [2023-02-24 10:57:21,849] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:57:21,852] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:57:21,859] {logging_mixin.py:115} INFO - [2023-02-24 10:57:21,859] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:21,868] {logging_mixin.py:115} INFO - [2023-02-24 10:57:21,868] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:57:21,874] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.028 seconds
+[2023-02-24 10:57:53,604] {processor.py:153} INFO - Started process (PID=10053) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:57:53,605] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:57:53,605] {logging_mixin.py:115} INFO - [2023-02-24 10:57:53,605] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:57:53,609] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:57:53,617] {logging_mixin.py:115} INFO - [2023-02-24 10:57:53,617] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:57:53,625] {logging_mixin.py:115} INFO - [2023-02-24 10:57:53,625] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:57:53,632] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:58:24,983] {processor.py:153} INFO - Started process (PID=10213) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:58:24,984] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:58:24,984] {logging_mixin.py:115} INFO - [2023-02-24 10:58:24,984] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:58:24,988] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:58:24,995] {logging_mixin.py:115} INFO - [2023-02-24 10:58:24,995] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:25,003] {logging_mixin.py:115} INFO - [2023-02-24 10:58:25,003] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:58:25,010] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.028 seconds
+[2023-02-24 10:58:56,453] {processor.py:153} INFO - Started process (PID=10375) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:58:56,453] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:58:56,454] {logging_mixin.py:115} INFO - [2023-02-24 10:58:56,454] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:58:56,457] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:58:56,466] {logging_mixin.py:115} INFO - [2023-02-24 10:58:56,466] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:58:56,474] {logging_mixin.py:115} INFO - [2023-02-24 10:58:56,474] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:58:56,481] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 10:59:28,371] {processor.py:153} INFO - Started process (PID=10539) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:59:28,372] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 10:59:28,372] {logging_mixin.py:115} INFO - [2023-02-24 10:59:28,372] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:59:28,376] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 10:59:28,384] {logging_mixin.py:115} INFO - [2023-02-24 10:59:28,384] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 10:59:28,393] {logging_mixin.py:115} INFO - [2023-02-24 10:59:28,393] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 10:59:28,400] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 11:00:00,207] {processor.py:153} INFO - Started process (PID=10706) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:00:00,207] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:00:00,208] {logging_mixin.py:115} INFO - [2023-02-24 11:00:00,207] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:00:00,211] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:00:00,220] {logging_mixin.py:115} INFO - [2023-02-24 11:00:00,220] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:00,229] {logging_mixin.py:115} INFO - [2023-02-24 11:00:00,229] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:00:00,235] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 11:00:33,000] {processor.py:153} INFO - Started process (PID=10882) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:00:33,000] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:00:33,000] {logging_mixin.py:115} INFO - [2023-02-24 11:00:33,000] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:00:33,004] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:00:33,011] {logging_mixin.py:115} INFO - [2023-02-24 11:00:33,011] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:00:33,020] {logging_mixin.py:115} INFO - [2023-02-24 11:00:33,020] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:00:33,027] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 11:01:06,762] {processor.py:153} INFO - Started process (PID=11068) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:01:06,762] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:01:06,763] {logging_mixin.py:115} INFO - [2023-02-24 11:01:06,763] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:01:06,766] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:01:06,774] {logging_mixin.py:115} INFO - [2023-02-24 11:01:06,774] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:01:06,782] {logging_mixin.py:115} INFO - [2023-02-24 11:01:06,782] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:01:06,789] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 11:01:38,684] {processor.py:153} INFO - Started process (PID=11236) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:01:38,684] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:01:38,685] {logging_mixin.py:115} INFO - [2023-02-24 11:01:38,685] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:01:38,689] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:01:38,697] {logging_mixin.py:115} INFO - [2023-02-24 11:01:38,696] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:01:38,705] {logging_mixin.py:115} INFO - [2023-02-24 11:01:38,705] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:01:38,712] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 11:02:11,151] {processor.py:153} INFO - Started process (PID=11405) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:02:11,152] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:02:11,152] {logging_mixin.py:115} INFO - [2023-02-24 11:02:11,152] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:02:11,156] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:02:11,165] {logging_mixin.py:115} INFO - [2023-02-24 11:02:11,165] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:11,174] {logging_mixin.py:115} INFO - [2023-02-24 11:02:11,174] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:02:11,180] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.030 seconds
+[2023-02-24 11:02:44,431] {processor.py:153} INFO - Started process (PID=11581) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:02:44,432] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:02:44,432] {logging_mixin.py:115} INFO - [2023-02-24 11:02:44,432] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:02:44,436] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:02:44,444] {logging_mixin.py:115} INFO - [2023-02-24 11:02:44,444] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:02:44,453] {logging_mixin.py:115} INFO - [2023-02-24 11:02:44,453] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:02:44,461] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.031 seconds
+[2023-02-24 11:03:17,825] {processor.py:153} INFO - Started process (PID=11753) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:03:17,826] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:03:17,826] {logging_mixin.py:115} INFO - [2023-02-24 11:03:17,826] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:03:17,830] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:03:17,837] {logging_mixin.py:115} INFO - [2023-02-24 11:03:17,837] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:17,846] {logging_mixin.py:115} INFO - [2023-02-24 11:03:17,846] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:03:17,852] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 11:03:48,575] {processor.py:153} INFO - Started process (PID=11974) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:03:48,576] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:03:48,576] {logging_mixin.py:115} INFO - [2023-02-24 11:03:48,576] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:03:48,580] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:03:48,589] {logging_mixin.py:115} INFO - [2023-02-24 11:03:48,589] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:03:48,598] {logging_mixin.py:115} INFO - [2023-02-24 11:03:48,598] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:03:48,606] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.032 seconds
+[2023-02-24 11:04:21,653] {processor.py:153} INFO - Started process (PID=12179) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:04:21,653] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:04:21,653] {logging_mixin.py:115} INFO - [2023-02-24 11:04:21,653] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:04:21,658] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:04:21,667] {logging_mixin.py:115} INFO - [2023-02-24 11:04:21,667] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:04:21,675] {logging_mixin.py:115} INFO - [2023-02-24 11:04:21,675] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:04:21,682] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.031 seconds
+[2023-02-24 11:04:53,544] {processor.py:153} INFO - Started process (PID=12364) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:04:53,545] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:04:53,545] {logging_mixin.py:115} INFO - [2023-02-24 11:04:53,545] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:04:53,548] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:04:53,557] {logging_mixin.py:115} INFO - [2023-02-24 11:04:53,557] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:04:53,565] {logging_mixin.py:115} INFO - [2023-02-24 11:04:53,565] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:04:53,571] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
+[2023-02-24 11:05:25,451] {processor.py:153} INFO - Started process (PID=12560) to work on /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:05:25,451] {processor.py:641} INFO - Processing file /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py for tasks to queue
+[2023-02-24 11:05:25,452] {logging_mixin.py:115} INFO - [2023-02-24 11:05:25,452] {dagbag.py:507} INFO - Filling up the DagBag from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:05:25,455] {processor.py:651} INFO - DAG(s) dict_keys(['tutorial_etl_dag']) retrieved from /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py
+[2023-02-24 11:05:25,463] {logging_mixin.py:115} INFO - [2023-02-24 11:05:25,463] {dag.py:2379} INFO - Sync 1 DAGs
+[2023-02-24 11:05:25,472] {logging_mixin.py:115} INFO - [2023-02-24 11:05:25,472] {dag.py:2927} INFO - Setting next_dagrun for tutorial_etl_dag to None, run_after=None
+[2023-02-24 11:05:25,478] {processor.py:161} INFO - Processing /home/alura/Documents/Medalhas/venv/lib/python3.9/site-packages/airflow/example_dags/tutorial_etl_dag.py took 0.029 seconds
